@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/scaling-octo-rotary-phone/static/css/main.22a9c294.css",
+    "main.js": "/scaling-octo-rotary-phone/static/js/main.3c9e317e.js",
+    "static/media/carousel1.png": "/scaling-octo-rotary-phone/static/media/carousel1.837000b9928684870dae.png",
+    "static/media/progqr.png": "/scaling-octo-rotary-phone/static/media/progqr.8de39f963b2bf122ad4e.png",
+    "static/media/spin.png": "/scaling-octo-rotary-phone/static/media/spin.c23888ff823df8aa6fc4.png",
+    "static/media/centerCircle.png": "/scaling-octo-rotary-phone/static/media/centerCircle.0f4671f1cd90f0bd29c7.png",
+    "static/media/header.png": "/scaling-octo-rotary-phone/static/media/header.bcac3e3e546f88ab1287.png",
+    "index.html": "/scaling-octo-rotary-phone/index.html",
+    "main.22a9c294.css.map": "/scaling-octo-rotary-phone/static/css/main.22a9c294.css.map",
+    "main.3c9e317e.js.map": "/scaling-octo-rotary-phone/static/js/main.3c9e317e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22a9c294.css",
+    "static/js/main.3c9e317e.js"
+  ]
+}
