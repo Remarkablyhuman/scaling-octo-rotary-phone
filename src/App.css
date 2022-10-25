@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  color: white;
+  scroll-behavior: smooth;
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.bodyx{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 1512px;
+}
