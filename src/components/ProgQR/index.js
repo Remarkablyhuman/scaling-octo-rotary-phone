@@ -3,7 +3,7 @@ import './progqr.css';
 
 const Progqr = () => {
   return (
-    <div>
+    <div className='progqr-container'>
        <img src={require('../../assets/progqr.png')} className='progqr-img' />
 {/* 
             <div className='progqr-border-container'>

@@ -12,7 +12,7 @@ import Team from './components/Team';
 function App() {
   return (
     <div className="App">
-      <div className='bodyx'>
+      
       <Header />
       <Carousel />
       <Slogan />
@@ -21,7 +21,7 @@ function App() {
       <Faq />
       <Team />
       <Footer />
-      </div>
+
     </div>
   );
 }

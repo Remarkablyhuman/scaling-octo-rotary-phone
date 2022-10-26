@@ -8,11 +8,11 @@ const Carousel = () => {
 
         <div className='slide-track'>
 
-          <div class='slide'>
+          <div className='slide'>
             <img src={require('../../assets/carousel1.png')} className='carousel1-img' />
           </div>
 
-          <div class='slide'>
+          <div className='slide'>
             <img src={require('../../assets/carousel1.png')} className='carousel1-img' />
           </div>
 

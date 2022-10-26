@@ -3,9 +3,7 @@ import './header.css'
 
 const Header = () => {
   return (
-    <div>
-       <img src={require('../../assets/header.png')} className='header-img' />
-{/* 
+ 
       <div className='header-container'>
 
         <div className='header-title-container'>
@@ -82,11 +80,7 @@ const Header = () => {
 
         </div>
 
-      </div> */}
-
-   
-
-    </div>
+      </div>
   )
 }
 

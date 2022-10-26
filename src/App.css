@@ -11,11 +11,14 @@
   display: flex;
   align-items: center;
   flex-direction: column;
+  min-width: 768px;
+  width: 100%;
+  overflow: hidden;
 }
-
+/* 
 .bodyx{
   display: flex;
   align-items: center;
   flex-direction: column;
   width: 1512px;
-}
+} */

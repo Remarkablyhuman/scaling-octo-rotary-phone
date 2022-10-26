@@ -1,8 +1,17 @@
 .progqr-img {
-    width: 1450px;
+
+    min-width: 1450px;
+    max-height: 220px;
+    /* margin-left: 10px; */
+    /* margin-right: 10px; */
+
+}
+
+.progqr-container {
+    overflow: hidden;
     height: 220px;
-    margin-left: 10px;
-    margin-right: 10px;
+    max-height: 220px;
+    position: relative;
 }
 
 /* 
