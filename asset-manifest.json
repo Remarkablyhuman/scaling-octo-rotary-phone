@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/scaling-octo-rotary-phone/static/css/main.1b50f4bf.css",
-    "main.js": "/scaling-octo-rotary-phone/static/js/main.ea74ff7c.js",
+    "main.js": "/scaling-octo-rotary-phone/static/js/main.be32a056.js",
     "static/media/carousel1.png": "/scaling-octo-rotary-phone/static/media/carousel1.837000b9928684870dae.png",
     "static/media/progqr.png": "/scaling-octo-rotary-phone/static/media/progqr.8de39f963b2bf122ad4e.png",
     "static/media/spin.png": "/scaling-octo-rotary-phone/static/media/spin.c23888ff823df8aa6fc4.png",
@@ -9,10 +9,10 @@
     "static/media/centerCircle.png": "/scaling-octo-rotary-phone/static/media/centerCircle.0f4671f1cd90f0bd29c7.png",
     "index.html": "/scaling-octo-rotary-phone/index.html",
     "main.1b50f4bf.css.map": "/scaling-octo-rotary-phone/static/css/main.1b50f4bf.css.map",
-    "main.ea74ff7c.js.map": "/scaling-octo-rotary-phone/static/js/main.ea74ff7c.js.map"
+    "main.be32a056.js.map": "/scaling-octo-rotary-phone/static/js/main.be32a056.js.map"
   },
   "entrypoints": [
     "static/css/main.1b50f4bf.css",
-    "static/js/main.ea74ff7c.js"
+    "static/js/main.be32a056.js"
   ]
 }
